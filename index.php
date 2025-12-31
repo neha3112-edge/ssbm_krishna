@@ -60,11 +60,9 @@ $accordionData = [
 <br>*Degree - Doctorate</p>
 
 <br>
+<br>
  <div>
   <button class="downloadBrochureBtn">Get Curriculum <i class="fa fa-download" style="color:#fff;" ></i></button>
- </div>
-</br>
-  <div>
    <button class="downloadBrochureBtn" style="color: white; background-color: black;  border: none;">Know More <i class="fa fa-caret-down" style="color:#fff;"></i></button>
 
   </div>
@@ -565,26 +563,6 @@ Students looking to take admission in SSBM DBA can develop practical knowledge, 
 
 
 
-<!-- start placement -->
-<!-- <section id="placement">
-<div class="container">
-   <div class="placement-section">
-   <h2><strong>PLACEMENTS</strong> PARTNERS</h2>
-   <img src="assets/img/capco.webp"  alt="p1" class="placement-img"/>
-   <img src="assets/img/Cognizant.webp"  alt="p2" class="placement-img"/>
-   <img src="assets/img/Delhivery.webp"  alt="p3" class="placement-img"/>
-   <img src="assets/img/capita.webp"  alt="p4" class="placement-img"/>
-   <img src="assets/img/disnep.webp"  alt="p5" class="placement-img"/>
-   <img src="assets/img/codeyoung.webp"  alt="p5" class="placement-img"/>
-
-   <img src="assets/img/cbspl.webp"  alt="p5" class="placement-img"/>
-
-</div>
-</div>
-</section> -->
-<!-- End placement -->
-
-
 <!-- start faq -->
 <section id="faqs">
    <div class="container">
@@ -621,6 +599,13 @@ include __DIR__ . '/components/footer.php';
 
 
 <!-- End  faq -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBZBDTLT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
