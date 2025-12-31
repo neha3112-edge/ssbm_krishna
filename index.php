@@ -332,77 +332,7 @@ $accordionData = [
         </div>
     </div>
 
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-</div>
 
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-    </div>
-
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-    </div>
-
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-    </div>
-
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-    </div>
-
-     <div class="slide">
-        <img src="assets/img/research-oriented-learning-resources.webp" class="img-responsive">
-        
-        <div class="cr-info">
-        <h2> Finance and Banking </h2>
-		<p>Master financial analysis, banking operations, and risk-based decision-making supported by globally relevant learning delivered through the flexible SSBM dba structure.
-</p>
-        <hr>
-        <button class="enquireNowBtn">Apply Now</button>
-        </div>
-    </div>
 
 
 
